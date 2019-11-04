@@ -12,6 +12,6 @@ public class Test {
 
         System.out.println("git2-update2");
 
-        System.out.println('1');
+        System.out.println("123");
     }
 }
