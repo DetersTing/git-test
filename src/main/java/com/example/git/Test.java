@@ -11,5 +11,7 @@ public class Test {
         System.out.println("git1-update2");
 
         System.out.println("git2-update2");
+
+        System.out.println('1');
     }
 }
